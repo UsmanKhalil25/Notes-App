@@ -1,5 +1,9 @@
 # React-Django Notes App Clone
 
+![notes](https://github.com/UsmanKhalil25/Notes-App/assets/142806683/7f28fc50-274a-4ad2-af7e-6b50b56fe633)
+
+
+
 This is a clone of a Notes App built using the React frontend library and the Django Rest Framework backend framework. This app allows users to create, read, update, and delete notes in a simple and user-friendly interface.
 
 ## Features
